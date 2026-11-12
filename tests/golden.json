@@ -1,0 +1,1351 @@
+{
+ "faces": {
+  "neutral": "29d454cc8dd35ab0",
+  "happy": "6bedaf0c738d089c",
+  "joy": "f4ffc673ab72fab8",
+  "content": "a1c4b1781452f8db",
+  "love": "e7af204df79054ed",
+  "laugh": "33f43030423b58df",
+  "giggle": "e0c35bc43701acb0",
+  "wink": "ea9f07525451cc95",
+  "smug": "d5ec0762f52c1ccf",
+  "mischief": "7e0c9ef05d95a718",
+  "amazed": "0fc6de9b8ec0051f",
+  "pleading": "39a3f5f9fcc4dce4",
+  "shy": "fb0a82bb94560198",
+  "cool": "46cd350166eccf2e",
+  "dance": "98fdf59e0d7297a4",
+  "curious": "fd928a491990a005",
+  "listening": "fd8c30553b58b496",
+  "thinking": "897c0c4ef8ff87c8",
+  "confused": "668fbb8d651f5ad4",
+  "bored": "12707f5998d0d0ee",
+  "suspicious": "6a2fd2cbcff30e8f",
+  "surprised": "733e8cdb9ba60d82",
+  "startled": "044f487f9f0abbd8",
+  "scared": "3f9a91125bb6c771",
+  "nervous": "3b3eb1c858b9663a",
+  "falling": "3a593ea1c7a86785",
+  "sad": "596caaaf4150d4cc",
+  "cry": "e39f9924f59f6435",
+  "hungry": "a50f2865efa94e1e",
+  "annoyed": "9a4eec897a54d492",
+  "angry": "b3f7e71463c5b6a7",
+  "furious": "98e15cc986dca705",
+  "sleepy": "bdbe51a9b2ff5501",
+  "yawn": "74b3f98b8b22a6d9",
+  "sleeping": "3c10788ab77c0506",
+  "relieved": "a5bb22ff50ea3979",
+  "dazzled": "91160b52b14519a4",
+  "shaken": "c8ca40aa6c972345",
+  "dizzy": "c06d7caf35dc4260",
+  "sick": "0d054b77bcb91bc1",
+  "ko": "b184440ca05613de",
+  "upside_down": "02bb98518d43ac0c",
+  "tilt_left": "5a8f2b4395aebfff",
+  "tilt_right": "935c7ca6e36cff41",
+  "charging": "a2be35f695ad4455"
+ },
+ "script": [
+  "pat",
+  3,
+  "pat",
+  0.3,
+  "pat",
+  0.3,
+  "pat",
+  0.3,
+  "pat",
+  4,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  0.1,
+  "stroke",
+  3,
+  [
+   "poke",
+   0
+  ],
+  0.5,
+  [
+   "poke",
+   0
+  ],
+  0.5,
+  [
+   "poke",
+   0
+  ],
+  0.5,
+  [
+   "poke",
+   0
+  ],
+  0.5,
+  [
+   "poke",
+   0
+  ],
+  0.5,
+  [
+   "poke",
+   0
+  ],
+  0.5,
+  8,
+  [
+   "poke",
+   null
+  ],
+  0.2,
+  [
+   "poke",
+   1
+  ],
+  0.2,
+  [
+   "poke",
+   null
+  ],
+  0.5,
+  "pat",
+  4,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  "tickle",
+  0.1,
+  3,
+  "pickup",
+  4,
+  "pickup",
+  3,
+  "shake",
+  4,
+  "shake",
+  0.3,
+  "shake",
+  0.3,
+  "shake",
+  0.3,
+  "shake",
+  9,
+  "tilt_left",
+  2,
+  "tilt_right",
+  2,
+  "level",
+  2,
+  "flip",
+  3,
+  "flip",
+  4,
+  "pickup",
+  2,
+  "drop",
+  10,
+  "loud",
+  4,
+  "clap",
+  2,
+  "clap",
+  0.4,
+  "clap",
+  9,
+  "music",
+  4,
+  "music",
+  3,
+  "light",
+  14,
+  "light",
+  5,
+  "charge",
+  5,
+  "sleep",
+  6,
+  "pat",
+  4,
+  "sleep",
+  5,
+  "loud",
+  4,
+  200
+ ],
+ "brain": {
+  "trace": [
+   "happy",
+   "neutral",
+   "happy",
+   "content",
+   "love",
+   "happy",
+   "content",
+   "love",
+   "happy",
+   "surprised",
+   "annoyed",
+   "angry",
+   "furious",
+   "angry",
+   "annoyed",
+   "angry",
+   "furious",
+   "suspicious",
+   "happy",
+   "giggle",
+   "laugh",
+   "happy",
+   "startled",
+   "joy",
+   "curious",
+   "relieved",
+   "happy",
+   "shaken",
+   "dizzy",
+   "happy",
+   "shaken",
+   "dizzy",
+   "sick",
+   "happy",
+   "surprised",
+   "tilt_left",
+   "surprised",
+   "tilt_right",
+   "happy",
+   "startled",
+   "upside_down",
+   "dizzy",
+   "relieved",
+   "happy",
+   "startled",
+   "joy",
+   "falling",
+   "ko",
+   "dizzy",
+   "sad",
+   "neutral",
+   "happy",
+   "neutral",
+   "startled",
+   "suspicious",
+   "neutral",
+   "surprised",
+   "happy",
+   "neutral",
+   "surprised",
+   "joy",
+   "dance",
+   "neutral",
+   "surprised",
+   "joy",
+   "dance",
+   "pleading",
+   "neutral",
+   "surprised",
+   "sleepy",
+   "wink",
+   "sleepy",
+   "yawn",
+   "dazzled",
+   "sleepy",
+   "neutral",
+   "charging",
+   "joy",
+   "neutral",
+   "yawn",
+   "sleepy",
+   "sleeping",
+   "sleepy",
+   "happy",
+   "neutral",
+   "yawn",
+   "sleepy",
+   "sleeping",
+   "startled",
+   "annoyed",
+   "neutral",
+   "happy",
+   "neutral",
+   "thinking",
+   "neutral",
+   "bored",
+   "curious",
+   "bored",
+   "mischief",
+   "bored",
+   "wink",
+   "bored",
+   "sleepy",
+   "pleading",
+   "bored",
+   "sleepy",
+   "bored",
+   "sleepy",
+   "yawn",
+   "sleepy",
+   "sleeping",
+   "sleepy",
+   "yawn",
+   "happy",
+   "neutral",
+   "curious",
+   "neutral",
+   "bored",
+   "suspicious",
+   "bored",
+   "pleading",
+   "bored"
+  ],
+  "said": [
+   "pat",
+   "love",
+   "love",
+   "poke1",
+   "poke4",
+   "poke3",
+   "tickle",
+   "pickup_happy",
+   "putdown",
+   "sick",
+   "flip",
+   "drop",
+   "ouch",
+   "loud",
+   "clap",
+   "music_on",
+   "dark",
+   "light",
+   "charged",
+   "sleep",
+   "wake",
+   "wake_rude",
+   "lonely",
+   "sleep",
+   "wake"
+  ],
+  "frames": "e681777f08cf7e828f90ca7d169edb5b90f295aed4cc3289006ab4dc6e874782",
+  "nframes": 695,
+  "mood": [
+   0.938,
+   0.575693,
+   0.0,
+   0.738182
+  ],
+  "describe": "Right now: energy 93%, affection for your human 57%, bored. Your face shows: bored. Recent events, oldest first: (246s ago) the music stopped (243s ago) the lights went out (229s ago) the lights came on (224s ago) you were plugged in to charge (213s ago) your head was patted (204s ago) there was a loud bang",
+  "after_express": [
+   "love",
+   true,
+   "dance"
+  ],
+  "pinned": "cool"
+ },
+ "pixels": {
+  "truecolor": "477ceef7f90889dae9299a62b550fea7a5acb414dc7a1410b74712a84996c246",
+  "256": "866350ea99f6f7e69810e87bc40693e5123c87a38f3da58fb562c1facbe417fb",
+  "mono": "3e5ebf0a029e77a17093aa6202718957f1c58885efc7d47db2c1aec14bfc9335"
+ },
+ "parse": [
+  [
+   "char",
+   "a"
+  ],
+  [
+   "char",
+   "b"
+  ],
+  [
+   "key",
+   "up"
+  ],
+  [
+   "key",
+   "right"
+  ],
+  [
+   "key",
+   "down"
+  ],
+  [
+   "key",
+   "enter"
+  ],
+  [
+   "key",
+   "backspace"
+  ],
+  [
+   "key",
+   "tab"
+  ],
+  [
+   "key",
+   "ctrl-d"
+  ],
+  [
+   "key",
+   "ctrl-u"
+  ],
+  [
+   "key",
+   "ctrl-w"
+  ],
+  [
+   "char",
+   "Z"
+  ],
+  [
+   "mouse",
+   "press",
+   10,
+   5,
+   0
+  ],
+  [
+   "mouse",
+   "release",
+   10,
+   5,
+   0
+  ],
+  [
+   "mouse",
+   "move",
+   3,
+   4,
+   3
+  ],
+  [
+   "mouse",
+   "drag",
+   7,
+   8,
+   0
+  ],
+  [
+   "mouse",
+   "wheel",
+   1,
+   1,
+   "up"
+  ],
+  [
+   "mouse",
+   "wheel",
+   1,
+   1,
+   "down"
+  ],
+  [
+   "mouse",
+   "press",
+   9,
+   9,
+   2
+  ],
+  [
+   "key",
+   "delete"
+  ],
+  [
+   "key",
+   "esc"
+  ],
+  [
+   "key",
+   "backtab"
+  ],
+  [
+   "char",
+   "é"
+  ],
+  [
+   "key",
+   "esc"
+  ]
+ ],
+ "parse_left": "",
+ "parse_partial": [
+  [
+   [
+    "char",
+    "q"
+   ]
+  ],
+  "\u001b[<0;1"
+ ],
+ "text": {
+  "wrap": [
+   "the quick",
+   "brown fox",
+   "jumps over",
+   "the lazy dog",
+   "supercalifra",
+   "gilisticexpi",
+   "alidocious",
+   "ok"
+  ],
+  "clip": "héllo wör",
+  "width": 10,
+  "styled": "\u001b[1;36mEMO \u001b[0msays hi\u001b[2m and \u001b[0m"
+ },
+ "parse_reply": [
+  {
+   "say": "just plain words",
+   "emotion": "neutral",
+   "action": "none"
+  },
+  {
+   "say": "Hi - I'm EMO...",
+   "emotion": "joy",
+   "action": "none"
+  },
+  {
+   "say": "ok there",
+   "emotion": "smug",
+   "action": "wink"
+  },
+  {
+   "say": "5",
+   "emotion": "neutral",
+   "action": "none"
+  }
+ ],
+ "texts": [
+  "A",
+  "B",
+  "C",
+  ""
+ ],
+ "explain": [
+  "Google rejected the API key - check the one in .env",
+  "the free quota is used up for the moment - it will come back",
+  "this Python cannot verify HTTPS certificates (CERTIFICATE_VERIFY_FAILED x)",
+  "cannot reach Google - is the internet up? (no route)",
+  "unexpected reply from Gemini",
+  "boom"
+ ],
+ "offline": [
+  [
+   "Hi hi!",
+   "happy",
+   "none"
+  ],
+  [
+   "Why did the robot go on holiday? To recharge its batteries!",
+   "laugh",
+   "none"
+  ],
+  [
+   "You're making me blush!",
+   "love",
+   "none"
+  ],
+  [
+   "That's not nice...",
+   "sad",
+   "none"
+  ],
+  [
+   "Watch my moves!",
+   "joy",
+   "dance"
+  ],
+  [
+   "Hmm... I'd need my Gemini brain for that one. Give me an API key!",
+   "thinking",
+   "none"
+  ],
+  [
+   "Okay... goodnight!",
+   "sleepy",
+   "sleep"
+  ],
+  [
+   "I'm good! A bit bored, maybe.",
+   "happy",
+   "none"
+  ],
+  [
+   "Like this?",
+   "happy",
+   "wink"
+  ],
+  [
+   "It's okay. I forgive you.",
+   "happy",
+   "none"
+  ],
+  [
+   "You're welcome!",
+   "happy",
+   "none"
+  ],
+  [
+   "I'm EMO, your desk robot!",
+   "happy",
+   "none"
+  ],
+  [
+   "Bye bye! Come back soon!",
+   "pleading",
+   "none"
+  ],
+  [
+   "Eek! Don't scare me!",
+   "scared",
+   "none"
+  ],
+  [
+   "I know, I know.",
+   "smug",
+   "none"
+  ],
+  [
+   "The coolest.",
+   "cool",
+   "none"
+  ],
+  [
+   "Tell me more!",
+   "curious",
+   "none"
+  ],
+  [
+   "Okay... goodnight!",
+   "sleepy",
+   "sleep"
+  ],
+  [
+   "You're making me blush!",
+   "love",
+   "none"
+  ]
+ ],
+ "lines": [
+  "My thinking cloud is fuzzy right now.",
+  "My brain key doesn't seem to work...",
+  "My brain needs a rest. Ask me again in a bit!",
+  "I'm bored...",
+  "Fully charged!",
+  "Oh! Applause!",
+  "Who turned off the lights?",
+  "AAAAAH!",
+  "I'm upside down!!",
+  "Okay. The world is back.",
+  "...Fine. I forgive you.",
+  "Hi! I'm EMO!",
+  "La la la~",
+  "My battery is low...",
+  "Too bright!",
+  "Play with me?",
+  "What was THAT?!",
+  "I love you!",
+  "Aww, it stopped.",
+  "Ooh, I love this song!",
+  "Ouch... that really hurt.",
+  "Hehe!",
+  "Mmmm...",
+  "Wheee!",
+  "Whoa! Put me down!",
+  "Eep!",
+  "Stop poking me.",
+  "I said STOP!",
+  "THAT'S IT!",
+  "Phew. Solid ground.",
+  "Wh-wh-whoa!",
+  "I don't feel so good...",
+  "Goodnight...",
+  "Hahaha! Stop!",
+  "Whoa, I'm sliding!",
+  "Good morning!",
+  "Hey! I was sleeping!",
+  "*yaaawn*"
+ ],
+ "describe_keys": [
+  "",
+  "",
+  "",
+  "Nobody has played with you for a while and you are bored.",
+  "You were just plugged in and your battery is full.",
+  "Your human clapped to get your attention.",
+  "The lights just went out.",
+  "You are falling off the desk!",
+  "You were turned completely upside down.",
+  "You were turned the right way up again after being upside down.",
+  "You were angry, but your human patted you to say sorry.",
+  "You just woke up and noticed your human.",
+  "You are happily humming a tune to yourself.",
+  "Your battery is running low.",
+  "The lights suddenly came on.",
+  "You have been ignored for a long time and want attention.",
+  "There was a sudden loud bang.",
+  "You have been petted so much you are overflowing with love.",
+  "The music stopped.",
+  "Music started playing and you want to dance.",
+  "You were dropped, hit the floor hard, and it hurt.",
+  "Your human gently patted your head.",
+  "Your human is slowly stroking your head and you love it.",
+  "Your human picked you up and you like being carried.",
+  "You were suddenly lifted into the air and it scared you.",
+  "Something poked you in the face.",
+  "You were poked again and you are getting annoyed.",
+  "You have been poked several times and now you are angry.",
+  "You keep being poked and you are absolutely furious.",
+  "You were put back down on the desk.",
+  "Someone is shaking you hard.",
+  "You were shaken so much that you feel sick.",
+  "You are falling asleep.",
+  "You are being tickled and can't stop laughing.",
+  "You were tipped to one side and are sliding.",
+  "You just woke up from a nice nap.",
+  "You were rudely woken up while sleeping.",
+  "You are getting tired and yawned."
+ ],
+ "app_events": {
+  "30": [
+   [
+    "char",
+    "p"
+   ]
+  ],
+  "60": [
+   [
+    "char",
+    "o"
+   ],
+   [
+    "char",
+    "O"
+   ]
+  ],
+  "75": [
+   [
+    "char",
+    "o"
+   ]
+  ],
+  "90": [
+   [
+    "char",
+    "k"
+   ]
+  ],
+  "150": [
+   [
+    "key",
+    "enter"
+   ]
+  ],
+  "155": [
+   [
+    "char",
+    "t"
+   ],
+   [
+    "char",
+    "e"
+   ],
+   [
+    "char",
+    "l"
+   ],
+   [
+    "char",
+    "l"
+   ],
+   [
+    "char",
+    " "
+   ],
+   [
+    "char",
+    "m"
+   ],
+   [
+    "char",
+    "e"
+   ],
+   [
+    "char",
+    " "
+   ],
+   [
+    "char",
+    "a"
+   ],
+   [
+    "char",
+    " "
+   ],
+   [
+    "char",
+    "j"
+   ],
+   [
+    "char",
+    "o"
+   ],
+   [
+    "char",
+    "k"
+   ],
+   [
+    "char",
+    "x"
+   ]
+  ],
+  "158": [
+   [
+    "key",
+    "backspace"
+   ],
+   [
+    "char",
+    "e"
+   ],
+   [
+    "key",
+    "enter"
+   ]
+  ],
+  "240": [
+   [
+    "char",
+    "h"
+   ],
+   [
+    "char",
+    "i"
+   ],
+   [
+    "key",
+    "ctrl-w"
+   ],
+   [
+    "char",
+    "y"
+   ],
+   [
+    "key",
+    "ctrl-u"
+   ],
+   [
+    "key",
+    "enter"
+   ]
+  ],
+  "250": [
+   [
+    "char",
+    "h"
+   ]
+  ],
+  "260": [
+   [
+    "char",
+    "]"
+   ],
+   [
+    "char",
+    "]"
+   ],
+   [
+    "char",
+    "["
+   ]
+  ],
+  "300": [
+   [
+    "mouse",
+    "move",
+    30,
+    6,
+    3
+   ]
+  ],
+  "310": [
+   [
+    "mouse",
+    "press",
+    40,
+    8,
+    0
+   ],
+   [
+    "mouse",
+    "release",
+    40,
+    8,
+    0
+   ]
+  ],
+  "330": [
+   [
+    "mouse",
+    "press",
+    20,
+    5,
+    0
+   ],
+   [
+    "mouse",
+    "drag",
+    24,
+    5,
+    0
+   ],
+   [
+    "mouse",
+    "drag",
+    28,
+    6,
+    0
+   ],
+   [
+    "mouse",
+    "release",
+    28,
+    6,
+    0
+   ]
+  ],
+  "350": [
+   [
+    "mouse",
+    "wheel",
+    30,
+    6,
+    "up"
+   ]
+  ],
+  "360": [
+   [
+    "mouse",
+    "press",
+    30,
+    6,
+    2
+   ]
+  ],
+  "380": [
+   [
+    "key",
+    "left"
+   ]
+  ],
+  "420": [
+   [
+    "key",
+    "down"
+   ]
+  ],
+  "440": [
+   [
+    "char",
+    "d"
+   ]
+  ],
+  "520": [
+   [
+    "resize"
+   ]
+  ],
+  "540": [
+   [
+    "char",
+    "n"
+   ],
+   [
+    "char",
+    "m"
+   ]
+  ],
+  "600": [
+   [
+    "char",
+    "b"
+   ]
+  ],
+  "660": [
+   [
+    "char",
+    "z"
+   ]
+  ],
+  "700": [
+   [
+    "char",
+    " "
+   ]
+  ]
+ },
+ "app": {
+  "truecolor_100x34": {
+   "out": "cde131e510990d61cf5da8a6b9c0064ccba14d190a762c6078ff453e9617e288",
+   "texts": [
+    [
+     "angry",
+     "That's my eye!",
+     "",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mangry\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m████"
+    ],
+    [
+     "laugh",
+     "What do you call a pirate robot? Arrr-2-D2!",
+     "tell me a joke",
+     "chat",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mlaugh\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m████"
+    ],
+    [
+     "neutral",
+     "What do you call a pirate robot? Arrr-2-D2!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mneutral\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m██"
+    ],
+    [
+     "giggle",
+     "What do you call a pirate robot? Arrr-2-D2!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mgiggle\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m███"
+    ],
+    [
+     "falling",
+     "I'm faaalling!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mfalling\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m██"
+    ],
+    [
+     "ko",
+     "I'm faaalling!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mko\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m█████░\u001b"
+    ],
+    [
+     "charging",
+     "Fully charged!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mcharging\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m█"
+    ],
+    [
+     "sleepy",
+     "Just five minutes...",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1msleepy\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m███"
+    ]
+   ]
+  },
+  "256_80x24": {
+   "out": "a1ab5f95ea177041b78a8e727fe7cb787c44e273292378ba4c0f5f1d013e53c3",
+   "texts": [
+    [
+     "angry",
+     "That's my eye!",
+     "",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mangry\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m████"
+    ],
+    [
+     "laugh",
+     "What do you call a pirate robot? Arrr-2-D2!",
+     "tell me a joke",
+     "chat",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mlaugh\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m████"
+    ],
+    [
+     "neutral",
+     "What do you call a pirate robot? Arrr-2-D2!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mneutral\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m██"
+    ],
+    [
+     "giggle",
+     "What do you call a pirate robot? Arrr-2-D2!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mgiggle\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m███"
+    ],
+    [
+     "falling",
+     "AAAAAH!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mfalling\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m██"
+    ],
+    [
+     "ko",
+     "AAAAAH!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mko\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m█████░\u001b"
+    ],
+    [
+     "charging",
+     "I feel alive!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mcharging\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m█"
+    ],
+    [
+     "sleepy",
+     "Good morning!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1msleepy\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m███"
+    ]
+   ]
+  },
+  "mono_60x20": {
+   "out": "5f65a054b778a20675a92c094c15b3c2c485786d42776fe94ea6e65257bd5b5e",
+   "texts": [
+    [
+     "angry",
+     "That's my eye!",
+     "",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mangry\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m████"
+    ],
+    [
+     "laugh",
+     "What do you call a pirate robot? Arrr-2-D2!",
+     "tell me a joke",
+     "chat",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mlaugh\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m████"
+    ],
+    [
+     "neutral",
+     "What do you call a pirate robot? Arrr-2-D2!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mneutral\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m██"
+    ],
+    [
+     "giggle",
+     "What do you call a pirate robot? Arrr-2-D2!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mgiggle\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m███"
+    ],
+    [
+     "falling",
+     "I'm faaalling!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mfalling\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m██"
+    ],
+    [
+     "ko",
+     "I'm faaalling!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mko\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m█████░\u001b"
+    ],
+    [
+     "charging",
+     "Dance time!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1mcharging\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m█"
+    ],
+    [
+     "sleepy",
+     "",
+     "tell me a joke",
+     "pet",
+     "\u001b[1;30;46m EMO \u001b[0m \u001b[1msleepy\u001b[0m   \u001b[2menergy \u001b[0m\u001b[32m███"
+    ]
+   ]
+  },
+  "truecolor_20x6": {
+   "out": "6ae53ac3b92e48a01b620bda2b7cf1018eba55a38ea4eec9f6909da32fcb49e2",
+   "texts": [
+    [
+     "angry",
+     "That's my eye!",
+     "",
+     "pet",
+     "\u001b[1mEMO needs a bigger w\u001b[0m"
+    ],
+    [
+     "laugh",
+     "What do you call a pirate robot? Arrr-2-D2!",
+     "tell me a joke",
+     "chat",
+     "\u001b[1mEMO needs a bigger w\u001b[0m"
+    ],
+    [
+     "neutral",
+     "What do you call a pirate robot? Arrr-2-D2!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1mEMO needs a bigger w\u001b[0m"
+    ],
+    [
+     "neutral",
+     "What do you call a pirate robot? Arrr-2-D2!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1mEMO needs a bigger w\u001b[0m"
+    ],
+    [
+     "falling",
+     "AAAAAH!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1mEMO needs a bigger w\u001b[0m"
+    ],
+    [
+     "ko",
+     "AAAAAH!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1mEMO needs a bigger w\u001b[0m"
+    ],
+    [
+     "charging",
+     "Fully charged!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1mEMO needs a bigger w\u001b[0m"
+    ],
+    [
+     "sleepy",
+     "Good morning!",
+     "tell me a joke",
+     "pet",
+     "\u001b[1mEMO needs a bigger w\u001b[0m"
+    ]
+   ]
+  }
+ }
+}

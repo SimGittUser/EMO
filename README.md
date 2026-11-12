@@ -5,7 +5,7 @@ around, gets bored, falls asleep, and reacts when you touch it, pick it up,
 shake it, drop it, make noise or turn off the lights. With a free Gemini API
 key it can also talk back.
 
-Pure Python standard library — nothing to install.
+Pure Python standard library — nothing to install. Needs Python 3.14 or newer.
 
 ## Run it
 
@@ -90,30 +90,49 @@ and the key is only ever read from your environment or `.env`.
 
 ```
 emo/
-  expressions.py   every face, as plain data (start here to add or tweak one)
-  face.py          springs, blinking, gaze: turns a face name into moving eyes
-  shapes.py        the eye shapes (rounded box, heart, X, > <, spiral)
-  effects.py       hearts, tears, Zzz, sweat, stars, notes ...
-  canvas.py        an RGB framebuffer that everything is drawn into
-  brain.py         moods, reactions to sensor events, idle behaviour
-  phrases.py       offline lines and the tiny offline chat
-  gemini.py        the Gemini client
-  term.py          terminal display + keyboard/mouse input
-  app.py           ties it together
+  expressions/   every face, as plain data (start here to add or tweak one)
+  face/          springs, blinking, gaze: turns a face name into moving eyes
+  shapes/        the eye shapes (rounded box, heart, X, > <, spiral)
+  effects/       hearts, tears, Zzz, sweat, stars, notes ...
+  canvas/        an RGB framebuffer and the drawing operations on it
+  brain/         moods, reactions to sensor events, idle behaviour
+  phrases/       offline lines and the tiny offline chat
+  gemini/        the Gemini client
+  term/          terminal display + keyboard/mouse input
+  app/           ties it together
+  snapshot/      renders faces to an image
+  cli/           the command line
 ```
 
 The face is designed on a virtual 128×64 screen and scaled to fit, so it does
-not care what it is drawn on.
+not care what it is drawn on. Each package is a set of small modules — no file
+or function is longer than 60 lines. [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
+explains how the pieces fit together.
+
+## Working on the code
+
+The project follows the rules in [agents.md](agents.md) and uses
+[uv](https://docs.astral.sh/uv/) for the developer tools. All three of these
+must pass with nothing reported:
+
+```bash
+uv run ruff check --fix
+uv run ty check
+uv run pytest
+```
+
+The tests replay recorded sessions (`tests/golden.json`) and expect the exact
+same faces, reactions and screen output, so any change in behaviour shows up.
 
 ## Moving to real hardware later
 
 Only two seams touch the terminal:
 
 - **Display** — each frame ends up in `Canvas.rows` (a grid of `0xRRGGBB`
-  pixels). `term.py` turns that into characters; an OLED/TFT build pushes the
-  same pixels to the panel instead.
+  pixels). The `term` package turns that into characters; an OLED/TFT build
+  pushes the same pixels to the panel instead.
 - **Sensors** — the brain only receives named events:
-  `brain.event('pat')`, `'stroke'`, `'poke'`, `'tickle'`, `'pickup'`, `'shake'`,
+  `brain.event(mind, 'pat')`, `'stroke'`, `'poke'`, `'tickle'`, `'pickup'`, `'shake'`,
   `'tilt_left'`, `'tilt_right'`, `'level'`, `'flip'`, `'drop'`, `'loud'`,
   `'clap'`, `'music'`, `'light'`, `'charge'`, `'sleep'`. Real drivers for a
   touch pad, IMU, microphone and light sensor just need to call those.
